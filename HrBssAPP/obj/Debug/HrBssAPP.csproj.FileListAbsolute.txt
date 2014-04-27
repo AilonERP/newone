@@ -1,0 +1,18 @@
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrBssAPP.dll
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrBssAPP.pdb
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrDBAPP.dll
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrDBAPP.pdb
+F:\C#练习\HRmanage\HrBssAPP\obj\Debug\ResolveAssemblyReference.cache
+F:\C#练习\HRmanage\HrBssAPP\obj\Debug\HrBssAPP.dll
+F:\C#练习\HRmanage\HrBssAPP\obj\Debug\HrBssAPP.pdb
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrModel.dll
+F:\C#练习\HRmanage\HrBssAPP\bin\Debug\HrModel.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrBssAPP.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrBssAPP.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrDBAPP.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrModel.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrDBAPP.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\bin\Debug\HrModel.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\obj\Debug\ResolveAssemblyReference.cache
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\obj\Debug\HrBssAPP.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HrBssAPP\obj\Debug\HrBssAPP.pdb

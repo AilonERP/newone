@@ -1,0 +1,42 @@
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HRmanage.exe
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HRmanage.pdb
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.Form1.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormMain.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.Properties.Resources.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.exe
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.pdb
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrDBAPP.dll
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrDBAPP.pdb
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrBssAPP.dll
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrBssAPP.pdb
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrModel.dll
+F:\C#练习\HRmanage\HRmanage\bin\Debug\HrModel.pdb
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormQueryEmp.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormAdd.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.WagePay.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormAdminManage.resources
+F:\C#练习\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormRePassword.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.exe
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HRmanage.exe
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HRmanage.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrBssAPP.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrDBAPP.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrModel.dll
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrBssAPP.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrDBAPP.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\bin\Debug\HrModel.pdb
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.Form1.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormAdd.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormAdminManage.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormMain.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormQueryEmp.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.FormRePassword.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.Properties.Resources.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\HRmanage.WagePay.resources
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\.net 课程\自做软件\第二单元项目（.net陈世龙）\第二单元项目（.net陈世龙）\HRmanage\HRmanage\obj\x86\Debug\GenerateResource.write.1.tlog
