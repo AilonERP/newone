@@ -44,6 +44,7 @@
     <Compile Include="AddEmployee.cs" />
     <Compile Include="Admain.cs" />
     <Compile Include="alterPassWord.cs" />
+    <Compile Include="DBComm.cs" />
     <Compile Include="DBHelper.cs" />
     <Compile Include="DicNameDAL.cs" />
     <Compile Include="DictionaryDAL.cs" />

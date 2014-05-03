@@ -6,29 +6,28 @@ using System.Data;
 using System.Data.SqlClient;
 using HrModel;
 
+
 namespace HrDBAPP
 {
+    /// <summary>
+    /// 修改密码
+    /// </summary>
    public  class alterPassWord
    {
+       DBComm db = new DBComm();
        public void AltarPassWord(string oldpassword,string newpassword) 
        {
-           DBHelper.conn.Open();
-           SqlCommand com = new SqlCommand();
-           com.Connection = DBHelper.conn;
-           com.CommandType = CommandType.StoredProcedure;
-           com.CommandText = "us_alterpassword";
+           SqlCommand cmd = db.GetStoredProcCommand("us_alterpassword");
+           db.AddInParameter(cmd,"oldpassword",DbType.AnsiString,oldpassword);
+           db.AddInParameter(cmd, "newpassword",DbType.AnsiString,newpassword);
 
-           SqlParameter old= com.Parameters.Add("oldpassword",SqlDbType.VarChar,50);
-           old.Direction = ParameterDirection.Input;
-           old.Value = oldpassword;
+           Trans trans = new Trans();
 
+           db.ExecuteNonQuery(cmd);
 
-           SqlParameter newpass = com.Parameters.Add("newpassword", SqlDbType.VarChar, 50);
-           newpass.Direction = ParameterDirection.Input;
-           newpass.Value = newpassword;
-
-           com.ExecuteNonQuery();
-       
+           trans.Commit();
+           
+          
        }
 
 
